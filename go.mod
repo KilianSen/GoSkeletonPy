@@ -1,4 +1,4 @@
-module GoSkeletonPy
+module github.com/KilianSen/GoSkeletonPy
 
 go 1.22
 

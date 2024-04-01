@@ -36,7 +36,7 @@ Here's a basic usage example:
 package main
 
 import (
-	GoSkeletonPy "GoSkeletonPy/src"
+    "github.com/KilianSen/GoSkeletonPy"
 	"time"
 )
 
